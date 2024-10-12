@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F886AC-A0EB-4835-ABA3-C8E402478A45}|C_Sharp_Egitim_Kampi_Ders_06_Arrays\\C_Sharp_Egitim_Kampi_Ders_06_Arrays.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c sharp e\u011Fitim kamp\u0131\\c_sharp_egitim_kampi_ders_06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F886AC-A0EB-4835-ABA3-C8E402478A45}|C_Sharp_Egitim_Kampi_Ders_06_Arrays\\C_Sharp_Egitim_Kampi_Ders_06_Arrays.csproj|solutionrelative:c_sharp_egitim_kampi_ders_06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3D3299-18C2-41B4-97E3-AD393F47F36A}|C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars\\C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c sharp e\u011Fitim kamp\u0131\\c_sharp_egitim_kampi_ders_05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3D3299-18C2-41B4-97E3-AD393F47F36A}|C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars\\C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars.csproj|solutionrelative:c_sharp_egitim_kampi_ders_05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24183678-7F9E-4877-8CA7-E86A788A61D9}|C_Sharp_Egitim_Kampi_Ders_04_Loops\\C_Sharp_Egitim_Kampi_Ders_04_Loops.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c sharp e\u011Fitim kamp\u0131\\c_sharp_egitim_kampi_ders_04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24183678-7F9E-4877-8CA7-E86A788A61D9}|C_Sharp_Egitim_Kampi_Ders_04_Loops\\C_Sharp_Egitim_Kampi_Ders_04_Loops.csproj|solutionrelative:c_sharp_egitim_kampi_ders_04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6BD972-35CC-48A7-92D1-9CAE2C0521E6}|C_Sharp_Egitim_Kampi_Ders_03_MakingDecision\\C_Sharp_Egitim_Kampi_Ders_03_MakingDecision.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c sharp e\u011Fitim kamp\u0131\\c_sharp_egitim_kampi_ders_03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6BD972-35CC-48A7-92D1-9CAE2C0521E6}|C_Sharp_Egitim_Kampi_Ders_03_MakingDecision\\C_Sharp_Egitim_Kampi_Ders_03_MakingDecision.csproj|solutionrelative:c_sharp_egitim_kampi_ders_03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2831F51-2113-4C0C-9369-8FB03A73855B}|C_Sharp_Egitim_Kampi_Ders_02_Variables\\C_Sharp_Egitim_Kampi_Ders_02_Variables.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c sharp e\u011Fitim kamp\u0131\\c_sharp_egitim_kampi_ders_02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2831F51-2113-4C0C-9369-8FB03A73855B}|C_Sharp_Egitim_Kampi_Ders_02_Variables\\C_Sharp_Egitim_Kampi_Ders_02_Variables.csproj|solutionrelative:c_sharp_egitim_kampi_ders_02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A189E6-42C2-4B6B-A916-785BA1783DE0}|C_Sharp_Egitim_Kampi_Ders_01_MainSubjects\\C_Sharp_Egitim_Kampi_Ders_01_MainSubjects.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c sharp e\u011Fitim kamp\u0131\\c_sharp_egitim_kampi_ders_01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A189E6-42C2-4B6B-A916-785BA1783DE0}|C_Sharp_Egitim_Kampi_Ders_01_MainSubjects\\C_Sharp_Egitim_Kampi_Ders_01_MainSubjects.csproj|solutionrelative:c_sharp_egitim_kampi_ders_01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_06_Arrays\\Program.cs",
+              "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_06_Arrays\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_06_Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:39:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars\\Program.cs",
+              "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:38:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_04_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_04_Loops\\Program.cs",
+              "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_04_Loops\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_04_Loops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:37:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_03_MakingDecision\\Program.cs",
+              "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_03_MakingDecision\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:36:40.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_02_Variables\\Program.cs",
+              "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_02_Variables\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_02_Variables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:35:37.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_01_MainSubjects\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_01_MainSubjects\\Program.cs",
+              "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C Sharp E\u011Fitim Kamp\u0131\\C_Sharp_Egitim_Kampi_Ders_01_MainSubjects\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_01_MainSubjects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:34:10.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

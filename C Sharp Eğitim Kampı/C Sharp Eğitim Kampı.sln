@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_01_MainSubjects", "C_Sharp_Egitim_Kampi_Ders_01_MainSubjects\C_Sharp_Egitim_Kampi_Ders_01_MainSubjects.csproj", "{86A189E6-42C2-4B6B-A916-785BA1783DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_02_Variables", "C_Sharp_Egitim_Kampi_Ders_02_Variables\C_Sharp_Egitim_Kampi_Ders_02_Variables.csproj", "{D2831F51-2113-4C0C-9369-8FB03A73855B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_03_MakingDecision", "C_Sharp_Egitim_Kampi_Ders_03_MakingDecision\C_Sharp_Egitim_Kampi_Ders_03_MakingDecision.csproj", "{9F6BD972-35CC-48A7-92D1-9CAE2C0521E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_04_Loops", "C_Sharp_Egitim_Kampi_Ders_04_Loops\C_Sharp_Egitim_Kampi_Ders_04_Loops.csproj", "{24183678-7F9E-4877-8CA7-E86A788A61D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars", "C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars\C_Sharp_Egitim_Kampi_Ders_05_LoopsWithStars.csproj", "{DA3D3299-18C2-41B4-97E3-AD393F47F36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_06_Arrays", "C_Sharp_Egitim_Kampi_Ders_06_Arrays\C_Sharp_Egitim_Kampi_Ders_06_Arrays.csproj", "{32F886AC-A0EB-4835-ABA3-C8E402478A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A189E6-42C2-4B6B-A916-785BA1783DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A189E6-42C2-4B6B-A916-785BA1783DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A189E6-42C2-4B6B-A916-785BA1783DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A189E6-42C2-4B6B-A916-785BA1783DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2831F51-2113-4C0C-9369-8FB03A73855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2831F51-2113-4C0C-9369-8FB03A73855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2831F51-2113-4C0C-9369-8FB03A73855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2831F51-2113-4C0C-9369-8FB03A73855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6BD972-35CC-48A7-92D1-9CAE2C0521E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6BD972-35CC-48A7-92D1-9CAE2C0521E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6BD972-35CC-48A7-92D1-9CAE2C0521E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6BD972-35CC-48A7-92D1-9CAE2C0521E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24183678-7F9E-4877-8CA7-E86A788A61D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24183678-7F9E-4877-8CA7-E86A788A61D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24183678-7F9E-4877-8CA7-E86A788A61D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24183678-7F9E-4877-8CA7-E86A788A61D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3D3299-18C2-41B4-97E3-AD393F47F36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3D3299-18C2-41B4-97E3-AD393F47F36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3D3299-18C2-41B4-97E3-AD393F47F36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3D3299-18C2-41B4-97E3-AD393F47F36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F886AC-A0EB-4835-ABA3-C8E402478A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F886AC-A0EB-4835-ABA3-C8E402478A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F886AC-A0EB-4835-ABA3-C8E402478A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F886AC-A0EB-4835-ABA3-C8E402478A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD49BA99-8086-4C18-B2B5-E3BCD28B7657}
+	EndGlobalSection
+EndGlobal
