@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop", "C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.csproj", "{15DDE413-CA90-4ADF-8401-FA927D657E87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_08_Methods", "C_Sharp_Egitim_Kampi_Ders_08_Methods\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj", "{C26D06AE-8C40-406F-9471-2EEC6F51786F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{15DDE413-CA90-4ADF-8401-FA927D657E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15DDE413-CA90-4ADF-8401-FA927D657E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15DDE413-CA90-4ADF-8401-FA927D657E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26D06AE-8C40-406F-9471-2EEC6F51786F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26D06AE-8C40-406F-9471-2EEC6F51786F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26D06AE-8C40-406F-9471-2EEC6F51786F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26D06AE-8C40-406F-9471-2EEC6F51786F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

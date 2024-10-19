@@ -1,0 +1,7 @@
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_08_Methods\bin\Debug\C_Sharp_Egitim_Kampi_Ders_08_Methods.exe.config
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_08_Methods\bin\Debug\C_Sharp_Egitim_Kampi_Ders_08_Methods.exe
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_08_Methods\bin\Debug\C_Sharp_Egitim_Kampi_Ders_08_Methods.pdb
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_08_Methods\obj\Debug\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_08_Methods\obj\Debug\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_08_Methods\obj\Debug\C_Sharp_Egitim_Kampi_Ders_08_Methods.exe
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_08_Methods\obj\Debug\C_Sharp_Egitim_Kampi_Ders_08_Methods.pdb

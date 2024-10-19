@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C26D06AE-8C40-406F-9471-2EEC6F51786F}|C_Sharp_Egitim_Kampi_Ders_08_Methods\\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c_sharp_egitim_kampi_ders_08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26D06AE-8C40-406F-9471-2EEC6F51786F}|C_Sharp_Egitim_Kampi_Ders_08_Methods\\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj|solutionrelative:c_sharp_egitim_kampi_ders_08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15DDE413-CA90-4ADF-8401-FA927D657E87}|C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.csproj|d:\\programs\\microsoft visual studio\\github\\csharp2\\c_sharp_egitim_kampi_ders_07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15DDE413-CA90-4ADF-8401-FA927D657E87}|C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.csproj|solutionrelative:c_sharp_egitim_kampi_ders_07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C_Sharp_Egitim_Kampi_Ders_08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_08_Methods\\Program.cs",
+              "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C_Sharp_Egitim_Kampi_Ders_08_Methods\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_08_Methods\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwHkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:06:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
               "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
               "ToolTip": "D:\\Programs\\Microsoft Visual Studio\\github\\Csharp2\\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
               "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAcwGsAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T07:27:51.803Z",
               "EditorCaption": ""
