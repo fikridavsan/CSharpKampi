@@ -1,0 +1,7 @@
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\bin\Debug\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.exe.config
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\bin\Debug\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.exe
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\bin\Debug\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.pdb
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\obj\Debug\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.csproj.AssemblyReference.cache
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\obj\Debug\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\obj\Debug\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.exe
+D:\Programs\Microsoft Visual Studio\github\Csharp2\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\obj\Debug\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop.pdb
