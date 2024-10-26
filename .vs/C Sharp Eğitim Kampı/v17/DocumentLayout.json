@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Projeler\\Csharp\\CSharpKampi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA18802C-71C2-44D0-9714-2690FC144D0D}|C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud\\C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud.csproj|d:\\projeler\\csharp\\csharpkampi\\c_sharp_egitim_kampi_ders_10_databesecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA18802C-71C2-44D0-9714-2690FC144D0D}|C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud\\C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud.csproj|solutionrelative:c_sharp_egitim_kampi_ders_10_databesecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A52F2FC-3CE9-482A-9705-94405D1D4658}|C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject\\C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject.csproj|d:\\projeler\\csharp\\csharpkampi\\c_sharp_egitim_kampi_ders_09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A52F2FC-3CE9-482A-9705-94405D1D4658}|C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject\\C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject.csproj|solutionrelative:c_sharp_egitim_kampi_ders_09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C26D06AE-8C40-406F-9471-2EEC6F51786F}|C_Sharp_Egitim_Kampi_Ders_08_Methods\\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj|d:\\projeler\\csharp\\csharpkampi\\c_sharp_egitim_kampi_ders_08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C26D06AE-8C40-406F-9471-2EEC6F51786F}|C_Sharp_Egitim_Kampi_Ders_08_Methods\\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj|D:\\Projeler\\Csharp\\CSharpKampi\\c_sharp_egitim_kampi_ders_08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C26D06AE-8C40-406F-9471-2EEC6F51786F}|C_Sharp_Egitim_Kampi_Ders_08_Methods\\C_Sharp_Egitim_Kampi_Ders_08_Methods.csproj|solutionrelative:c_sharp_egitim_kampi_ders_08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,24 +26,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projeler\\Csharp\\CSharpKampi\\C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject\\Program.cs",
               "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject\\Program.cs",
               "ToolTip": "D:\\Projeler\\Csharp\\CSharpKampi\\C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject\\Program.cs",
               "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwC0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T07:24:10.362Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projeler\\Csharp\\CSharpKampi\\C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud\\Program.cs",
+              "ToolTip": "D:\\Projeler\\Csharp\\CSharpKampi\\C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwv74AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:05:14.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projeler\\Csharp\\CSharpKampi\\C_Sharp_Egitim_Kampi_Ders_08_Methods\\Program.cs",
               "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_08_Methods\\Program.cs",
@@ -52,15 +70,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projeler\\Csharp\\CSharpKampi\\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
               "RelativeDocumentMoniker": "C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
               "ToolTip": "D:\\Projeler\\Csharp\\CSharpKampi\\C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
               "RelativeToolTip": "C_Sharp_Egitim_Kampi_Ders_07_ForeachLoop\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAgAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:27:51.803Z"
+              "WhenOpened": "2024-10-19T07:27:51.803Z",
+              "EditorCaption": ""
             }
           ]
         }

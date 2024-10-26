@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject", "C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject\C_Sharp_Egitim_Kampi_Ders_09_DatabaseProject.csproj", "{9A52F2FC-3CE9-482A-9705-94405D1D4658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud", "C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud\C_Sharp_Egitim_Kampi_Ders_10_DatabeseCrud.csproj", "{FA18802C-71C2-44D0-9714-2690FC144D0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9A52F2FC-3CE9-482A-9705-94405D1D4658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A52F2FC-3CE9-482A-9705-94405D1D4658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A52F2FC-3CE9-482A-9705-94405D1D4658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA18802C-71C2-44D0-9714-2690FC144D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA18802C-71C2-44D0-9714-2690FC144D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA18802C-71C2-44D0-9714-2690FC144D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA18802C-71C2-44D0-9714-2690FC144D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
